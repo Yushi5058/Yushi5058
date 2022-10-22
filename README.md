@@ -10,18 +10,19 @@ Self Taught Front-end Web Dev here. I'm sharing my journey by learning new skill
 
 
 
-🧠 I'm currently learning **Javascript**
+🧠 I'm currently working on **The Odin Project Curriculum**.
 
-📫 [my email](eliaschakroun.contac@gmail.com)
+📫 [my email](eliaschakroun.contact@gmail.com)
 
 😄 Pronouns: **he/him**
 
 ⚡️ Fun fact: *I think more than I do*
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](yushi5058.github.io)
+
+*Soon* ... 
 
 
 ## 🛠 Skills
-HTML, CSS, Discord, Git ...
+HTML, CSS, Discord, Git
 
