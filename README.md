@@ -23,6 +23,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yushi5058&show_icons=true&theme=tokyonight&align=right)
 
 
+[![](https://visitcount.itsvg.in/api?id=Yushi5058&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 
 
 
