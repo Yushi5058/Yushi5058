@@ -19,6 +19,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 # 📊 𝙰𝙲𝚃𝙸𝚅𝙸𝚃𝚈 𝚂𝚃𝙰𝚃𝚂
+[![wakatime](https://wakatime.com/badge/user/35d8130b-79af-4ad2-b20f-17deae23f3d9.svg)](https://wakatime.com/@35d8130b-79af-4ad2-b20f-17deae23f3d9)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Yushi5058&theme=tokyonight)](https://git.io/streak-stats)&nbsp;&nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yushi5058&show_icons=true&theme=tokyonight&align=right)
