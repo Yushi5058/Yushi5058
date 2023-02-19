@@ -12,6 +12,7 @@ jobs:
         run: curl https://stoicquotesapi.com/v1/api/quotes/random > quote.txt
       - name: Metrics embed
        uses: lowlighter/metrics@v3.32
+       with:
           config: |
             custom_metric:
               description: "Random Stoic Quote"
