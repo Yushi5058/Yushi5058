@@ -17,7 +17,7 @@ jobs:
         README.md-path: README.md
         add-text: |
         ## Stoic Quotes
-        
-        `$(cat quote.txt)`
+
+        `$(cat quote.txt)``
 
         Last updated: ${{ github.event.repository.updated_at }}
