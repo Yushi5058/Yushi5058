@@ -33,9 +33,6 @@
 
 # 💭 𝙳𝚊𝚒𝚕𝚢 𝚂𝚝𝚘𝚒𝚌 𝚁𝚊𝚗𝚍𝚘𝚖 𝚀𝚞𝚘𝚝𝚎
 
-> ` $(cat quote.txt) `
-
-_Last updated: ${{ github.event.repository.updated_at }}_
 
 [![](https://visitcount.itsvg.in/api?id=Yushi5058&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
