@@ -1,11 +1,8 @@
 name: Update Stoic Quotes
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   update-quotes:
@@ -16,11 +13,8 @@ jobs:
       - name: Generate quote
         run: curl https://stoicquotesapi.com/v1/api/quotes/random > quote.txt
       - name: Update README
-        uses: jamesgeorge007/github-README.md@releases/v3
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          README.md-path: 'README.md'
-          replacements: |
-            {
-              "stoic-quote": "$(cat quote.txt)",
-              "last-updated": "${{ github.event.repository.updated_at }}"
-            }
+          github_token: ${{ secrets.ACCESS_TOKEN }}
+          publish_dir: .
+          commit_message: "Updated Stoic quote: $(cat quote.txt)"
