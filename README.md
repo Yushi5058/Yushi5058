@@ -33,7 +33,7 @@
 
 # 💭 𝙳𝚊𝚒𝚕𝚢 𝚂𝚝𝚘𝚒𝚌 𝚁𝚊𝚗𝚍𝚘𝚖 𝚀𝚞𝚘𝚝𝚎
 
-> " $(cat quote.txt) "
+> ` $(cat quote.txt) `
 
 _Last updated: ${{ github.event.repository.updated_at }}_
 
