@@ -10,13 +10,13 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Generate quote
-        run: curl https://stoicquotesapi.com/v1/api/quotes/random > quote.txt
+        run: curl -H "Authorization: Bearer ${{ secrets.STOIC_API_KEY }}" https://stoicquotesapi.com/v1/api/quotes/random > quote.txt
       - name: Update README
         uses: Yushi5058/README.md
         with:
         README.md-path: README.md
         add-text: |
-        ## Stoic Quotes
+        # 💭 𝙳𝚊𝚒𝚕𝚢 𝚂𝚝𝚘𝚒𝚌 𝚁𝚊𝚗𝚍𝚘𝚖 𝚀𝚞𝚘𝚝𝚎
 
         `$(cat quote.txt)``
 
