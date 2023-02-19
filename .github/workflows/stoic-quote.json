@@ -1,0 +1,36 @@
+{
+  "name": "Update Stoic Quotes",
+  "on": {
+    "schedule": [
+      {
+        "cron": "0 0 * * *"
+      }
+    ]
+  },
+  "jobs": {
+    "update-quotes": {
+      "runs-on": "ubuntu-latest",
+      "steps": [
+        {
+          "name": "Checkout code",
+          "uses": "actions/checkout@v2"
+        },
+        {
+          "name": "Generate quote",
+          "run": "curl -H \"Authorization: Bearer ${{ secrets.STOIC_API_KEY }}\" https://stoicquotesapi.com/v1/api/quotes/random > quote.txt"
+        },
+        {
+          "name": "Update README",
+          "uses": "jamesgeorge007/github-README.md@releases/v3",
+          "with": {
+            "README.md-path": "README.md",
+            "replacements": {
+              "stoic-quote": "$(cat quote.txt)",
+              "last-updated": "${{ github.event.repository.updated_at }}"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
