@@ -10,10 +10,8 @@ jobs:
         uses: actions/checkout@v2
       - name: Generate quote
         run: curl https://stoicquotesapi.com/v1/api/quotes/random > quote.txt
-      - name: Update README
-        uses: lowlighter/metrics@latest
-        with:
-          # ... add other metrics options here
+      - name: Metrics embed
+       uses: lowlighter/metrics@v3.32
           config: |
             custom_metric:
               description: "Random Stoic Quote"
