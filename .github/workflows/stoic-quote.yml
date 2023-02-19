@@ -1,13 +1,18 @@
 name: Update Stoic Quotes
 on:
-  schedule:
-    - cron: '0 0 * * *'
+push:
+branches: [ "main" ]
+pull_request:
+branches: [ "main" ]
+
+workflow_dispatch:
+
 jobs:
   update-quotes:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Generate quote
         run: curl https://stoicquotesapi.com/v1/api/quotes/random > quote.txt
       - name: Update README
