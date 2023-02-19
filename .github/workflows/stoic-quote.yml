@@ -1,0 +1,21 @@
+name: Update Stoic Quotes
+on:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  update-quotes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Generate quote
+        run: curl https://stoicquotesapi.com/v1/api/quotes/random > quote.txt
+      - name: Update README
+        uses: lowlighter/metrics@latest
+        with:
+          # ... add other metrics options here
+          config: |
+            custom_metric:
+              description: "Random Stoic Quote"
+              fields:
+                quote: "$(cat quote.txt)"
