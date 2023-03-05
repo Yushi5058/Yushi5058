@@ -25,6 +25,14 @@ I'm currently working on revamping my portfolio website using Vue.js, as well as
 
 If you'd like to reach out to me or learn more about my work, please feel free to email me at <a href="mailto:yushi_61@proton.me" target="_blank">this email address</a>. I'm always open to new opportunities and collaborations!
 
+# 📈 GITHUB METRICS
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yushi5058)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yushi5058&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi5058&layout=compact&) 
+ 
 
 
 
