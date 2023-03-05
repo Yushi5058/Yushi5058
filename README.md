@@ -2,7 +2,7 @@
 ___
 # 🙋‍♂️  ABOUT ME
 
-I'm Yushi (he/him), a student and self-taught front-end developer from [location]. I have a strong passion for creating beautiful and functional websites using HTML, CSS, and JavaScript. I'm always learning and looking for ways to improve my skills and stay up-to-date with the latest technologies.
+I'm Yushi (he/him), a student and self-taught front-end developer. I have a strong passion for creating beautiful and functional websites using HTML, CSS, and JavaScript. I'm always learning and looking for ways to improve my skills and stay up-to-date with the latest technologies. I'm married to a wonderful woman and I love her.
 
 # 🔧 SKILLS AND TECHNOLOGIES
 
@@ -15,7 +15,7 @@ I'm Yushi (he/him), a student and self-taught front-end developer from [location
 
 # 🌟 HOBBIES AND INTERESTS
 
-When I'm not coding, I enjoy reading a book, let it be an anime or a fiction, or even a non fiction, watching an anime or working out at the gym. I somehow manage to get distracted along the way.
+When I'm not coding, I enjoy reading a book, let it be an anime or a fiction, or even a non fiction, watching an anime or working out at the gym. I also pass my time with my wife.
 
 # 🚀 CURRENT PROJECTS
 
