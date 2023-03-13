@@ -2,7 +2,7 @@
 ___
 # ABOUT ME
 
-Hello, I go by the name of Yushi in Internet. I'm an avid self taught learner and interested mainly in the linux ecosystem. I'm currently learning devOps following a roadmap. Talk with me about anything related to linux, open source, and anines && mangas. I also love languages and speak actually four: French, Arabic, English, and German. Planning to learn Greek, Japanese, and Latin.
+Hello, I go by the name of Yushi in Internet. I'm a self taught front-end web developer, interested in Open Source and Linux ecosystem. Vim lover, and using occasionally VS Code. I also speak four languages ( Arabic, French, English, German ) and I'm planning to learn more ( Greek, Japanese, Latin). I love watching anime, reading manga / webtoon / manwha, and going to the gym. My wife is my reason to live and to push further every day, I got this perseverance of evolving day by day thanks to her <3.
 
 # SOCIALS 
 
