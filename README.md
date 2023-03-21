@@ -2,7 +2,7 @@
 ___
 # ABOUT ME
 
-Hello, I go by the name of Yushi in Internet. I'm a self taught front-end web developer, interested in Open Source and Linux ecosystem. Vim lover, and using occasionally VS Code. I also speak four languages ( Arabic, French, English, German ) and I'm planning to learn more ( Greek, Japanese, Latin). I love watching anime, reading manga / webtoon / manwha, and going to the gym. My wife is my reason to live and to push further every day, I got this perseverance of evolving day by day thanks to her <3.
+Hello, I go by the name of Yushi in Internet. I'm a self taught front-end web developer, interested in Open Source and Linux ecosystem. Vim lover and my editor of choice of course. I also speak four languages ( Arabic, French, English, German ) and I'm planning to learn more ( Greek, Japanese, Latin). I love watching anime, reading manga / webtoon / manwha, and going to the gym. My wife is my reason to live and to push further every day, I got this perseverance of evolving day by day thanks to her <3.
 
 # SOCIALS 
 
