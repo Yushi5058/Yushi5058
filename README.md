@@ -2,13 +2,16 @@
 ___
 # ABOUT ME
 
-Hello, I go by the name of Yushi in Internet. I'm a self taught front-end web developer, interested in Open Source and Linux ecosystem. Vim lover and my editor of choice of course. I also speak four languages ( Arabic, French, English, German ) and I'm planning to learn more ( Greek, Japanese, Latin). I love watching anime, reading manga / webtoon / manwha, and going to the gym. My wife is my reason to live and to push further every day, I got this perseverance of evolving day by day thanks to her <3.
+Hello! I'm Yushi, a self-taught front-end developer with a passion for technology and strong drive to learn. I have dedicated countless
+hours to self-study and hands-on projects to develop my technical and soft skills.I'm a Vim/Neovim lover who uses it in my daily
+dev workflow. I'm also a linux enthusiast and FOSS enjoyer and I'm looking forward to contribute in the Open Source Community.
 
 # ACTIVITY
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yushi5058&count_private=true)
+![yushi_activity](https://github-readme-stats.vercel.app/api?username=yushi5058&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi5058&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![yushi_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi5058&layout=compact)
+
 
 
 # SOCIALS 
