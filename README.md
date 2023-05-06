@@ -3,7 +3,7 @@ ___
 # ABOUT ME
 
 Hello! I'm Yushi, a self-taught front-end developer with a passion for technology and strong drive to learn. I have dedicated countless
-hours to self-study and hands-on projects to develop my technical and soft skills.I'm a Vim/Neovim lover who uses it in my daily
+hours to self-study and hands-on projects to develop my technical and soft skills. I'm a Vim/Neovim lover who uses it in my daily
 dev workflow. I'm also a linux enthusiast and FOSS enjoyer and I'm looking forward to contribute in the Open Source Community.
 
 # ACTIVITY
