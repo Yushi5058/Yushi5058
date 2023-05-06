@@ -12,6 +12,8 @@ dev workflow. I'm also a linux enthusiast and FOSS enjoyer and I'm looking forwa
 
 ![yushi_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi5058&layout=compact)
 
+![yushi_streak](https://streak-stats.demolab.com/?user=Yushi5058)
+
 
 
 # SOCIALS 
