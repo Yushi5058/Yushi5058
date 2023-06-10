@@ -2,7 +2,7 @@
 ___
 # ABOUT ME
 
-Hi, I'm Yushi, a self-taught front-end developer who's passionate about coding. After almost a year of self-study, I have developed a keen interest in DevOps and I am currently expanding my knowledge in this area. I am excited to combine my academic coursework with practical skills to excel in the field. Let's build the future together!
+Hi, I'm Yushi, a self-taught front-end developer who's passionate about coding. After almost a year of self-study, I have developed a keen interest in Programming and I am currently expanding my knowledge in this area. I am excited to combine my academic coursework with practical skills to excel in the field. Let's build the future together!
 
 # ACTIVITY
 
