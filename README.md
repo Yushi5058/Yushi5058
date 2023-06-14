@@ -16,6 +16,6 @@ Hi, I'm Yushi, a self-taught front-end developer who's passionate about coding. 
 
 # SOCIALS 
 
-[Discord](discord.com/users/1071758711330193478) | [Linkfree](https://linkfree.eddiehub.io/Yushi5058)
+[Discord](discord.com/users/1071758711330193478) | [Linkfree](https://linkfree.eddiehub.io/Yushi5058) | [iCodeThis](https://icodethis.com/yushi_61)
 
 
