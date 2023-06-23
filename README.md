@@ -2,7 +2,7 @@
 ___
 # ABOUT ME
 
-Hi, I'm Yushi, a self-taught front-end developer who's passionate about coding. After almost a year of self-study, I have developed a keen interest in Programming and I am currently expanding my knowledge in this area. I am excited to combine my academic coursework with practical skills to excel in the field. Let's build the future together!
+Hello, I'm Yushi. I am a computer student and future software engineer currently based in Morocco. After a year of self-study, I developed a keen interest in programming and tech. I am a Vim user and lover, a Linux enthusiast, and an open-source contributor enjoyer. I'm focused on front-end development.
 
 # ACTIVITY
 
@@ -12,10 +12,11 @@ Hi, I'm Yushi, a self-taught front-end developer who's passionate about coding. 
 
 ![yushi_streak](https://streak-stats.demolab.com/?user=Yushi5058)
 
+[![wakatime](https://wakatime.com/badge/user/35d8130b-79af-4ad2-b20f-17deae23f3d9.svg)](https://wakatime.com/@35d8130b-79af-4ad2-b20f-17deae23f3d9)
 
 
 # SOCIALS 
 
-[Discord](discord.com/users/1071758711330193478) | [Linkfree](https://linkfree.eddiehub.io/Yushi5058) | [iCodeThis](https://icodethis.com/yushi_61)
+[Discord](discord.com/users/1071758711330193478) | [Linkfree](https://linkfree.eddiehub.io/Yushi5058) | [iCodeThis](https://icodethis.com/yushi_61).
 
 
