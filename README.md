@@ -2,7 +2,7 @@
 ___
 # ABOUT ME
 
-Hello, I'm Yushi. I am a computer student and future software engineer currently based in Morocco. After a year of self-study, I developed a keen interest in programming and tech. I am a Vim user and lover, a Linux enthusiast, and an open-source contributor enjoyer. I'm focused on front-end development.
+Hello, I'm Yushi. I am a computer science student and future software engineer currently based in Morocco. After a year of self-study, I developed a keen interest in programming and tech. I am a Vim user and lover, a Linux enthusiast, and an open-source contributor enjoyer. I'm focused on front-end development.
 
 # ACTIVITY
 
