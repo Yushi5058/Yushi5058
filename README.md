@@ -11,7 +11,7 @@ Passionate software engineer driven to create innovative solutions that positive
 
 For inquiries or to connect, please feel free to reach out to me via the following channels:
 
-Discord: [elane_26]
+Discord: [yushi_61]
 
 Email: [yushi_61@proton.me]
 
