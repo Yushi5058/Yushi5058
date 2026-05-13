@@ -1,32 +1,24 @@
-Passionate software engineer driven to create innovative solutions that positively impact society. Committed to leveraging technology for the common good.
+# 👋 Hi, I'm Yushi (@yushi_61)
 
---- 
+**Computer Science Student | DFIR & CTF Player**
 
-"The true power of your dreams lies in your ability to execute them in silence. Whisper your plans to the universe, not the world." - Janna Cachola
+> 🛡️ **Notice for Recruiters & Collaborators:**
+> I have migrated my active open-source development and daily coding to **[Codeberg](https://codeberg.org/yushi_61)**. 
+> The repositories you see on this GitHub account are automated read-only mirrors of my active work.
 
---- 
-"I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do." - Leonardo da Vinci
+### 🔍 About Me
+I am a Computer Science student with a strong focus on **Cybersecurity**, specifically **Digital Forensics and Incident Response (DFIR)**. I am also an active **CTF Player** specializing in **Forensics, Pwn, and Misc** challenges. I enjoy investigating systems, exploiting binaries, and building automation tools to streamline security operations. 
 
----
+### 🛠️ Tech Stack & Skills
+* **Languages:** Python, SQL, C (for Pwn/RE)
+* **Environments:** Linux / Unix ecosystems, Bash
+* **Focus Areas:** DFIR, Binary Exploitation (Pwn), Artifact Analysis, Security Automation
 
-For inquiries or to connect, please feel free to reach out to me via the following channels:
+### 🚀 See My Active Work
+Please visit my Codeberg Forge to see my latest commits, CTF write-ups, and security projects:
+👉 **[Explore my code on Codeberg](https://codeberg.org/yushi_61)**
 
-Discord: [yushi_61]
-
-Email: [yushi_61@proton.me]
-
----
-
-<details>
-<summary>General Stats</summary>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yushi5058&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi5058&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yushi_61&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Codewar Stats](https://www.codewars.com/users/Yushi5058/badges/large)
-
-</details>
-
+### 📫 Let's Connect
+* **Email:** [yushi_61@proton.me](mailto:yushi_61@proton.me)
+* **Discord:** `yushi_61`
+* **LinkedIn:** [in/eliaschakroun](https://www.linkedin.com/in/eliaschakroun/)
